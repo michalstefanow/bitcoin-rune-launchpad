@@ -33,7 +33,7 @@ A TypeScript-based launchpad platform for Bitcoin Rune tokens. This project prov
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/cabriola/bitcoin-rune-launchpad.git
+git clone https://github.com/michalstefanow/bitcoin-rune-launchpad.git
 cd bitcoin-rune-launchpad
 ```
 
@@ -145,6 +145,7 @@ bitcoin-rune-launchpad/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Author
+## 👥 Contact
+- Telegram [@michalstefanow](https://t.me/mylord1_1)
+- Twitter [@michalstefanow](https://x.com/michalstefanow)
 
-- GitHub: [@cabriola](https://github.com/cabriola) #
